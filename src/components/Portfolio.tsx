@@ -109,6 +109,7 @@ const Portfolio = () => {
       description: 'Modern portfolio website using React and Typescript.',
       image: '/portweb.jpg',
       tech: ['React', 'Typescript'],
+      github: 'https://github.com/mesushantdkl/portfolio'
     },
   ];
 
